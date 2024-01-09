@@ -6,6 +6,7 @@ Materials for the intro to python 2024 workshop
 
 
 ## Taught by:
-Ali Snedden
-John Sherman
-Matt Cannon
+
+- Ali Snedden
+- John Sherman
+- Matt Cannon
